@@ -11,12 +11,34 @@ header{
     align-items: center;
     padding:24px 0;
 }
-.imacabeçalho-imagem{
+.cabeçalho-imagem{
 width: 10%;
 
 }
-.cabeçalho-lista{
+.cabeçalho-lista-item{
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+ }
+ .escola{
+background-image: linear-gradient(#424e61,#4ebfe9);
+color: #fff;
+display: flex;
+justify-content: center;
+align-items: center;
+padding:24px 0;
+ }
+ .escola-diu-conteudo{
+    width:35%;
+ }
+ .escola-imagem{
+    width:25%;
+ }
+ .escola-titulo{
+    padding:24px 0;
+ }
+ .escola-texto-um{
+    padding:24px 0;
+    color: white;
+    font-size:24px ;
  }
